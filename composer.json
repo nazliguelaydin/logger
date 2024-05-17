@@ -1,0 +1,19 @@
+{
+    "name": "nazliguelaydin/logger",
+    "description": "A logger library",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Nazliguelaydin\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nazligül Aydin",
+            "email": "naydin@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
